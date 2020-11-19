@@ -1,0 +1,19 @@
+# config
+config.json
+
+# bin, lib
+bin/
+lib/
+lib64
+share/
+
+# data
+data/
+
+# venv
+pyvenv.cfg
+
+# optimized files
+__pycache__/
+*.py[cod]
+*$py.class
